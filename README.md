@@ -1,0 +1,1 @@
+[![codecov](https://codecov.io/gh/aloucks/zero2prod/branch/master/graph/badge.svg?token=XMZMJ914IY)](https://codecov.io/gh/aloucks/zero2prod)
